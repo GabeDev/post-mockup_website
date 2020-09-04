@@ -1,7 +1,11 @@
 # This is the Post Mockup Social media site
+Installing
 Assuming react is installed properly on VS code, just add in the following Library
-ReactBootstrap
+If needed help installing react refer to: https://reactjs.org/docs/getting-started.html
+
+### ReactBootstrap
 #### Command to install from visual studio terminal is: *npm install react-bootstrap bootstrap*
+#### Further Instructions can be found: https://react-bootstrap.github.io/getting-started/introduction/
 *warning IE explorer does not work, and will be depracated in future mandatory Windows updates, any other Browser works fine*
 
 Tutorial:
